@@ -1,4 +1,4 @@
-A Google Collab notebook with instructions I followed to succesfully train the model used here:
+A Google Collab notebook with instructions to succesfully train the model used here:
 https://www.youtube.com/watch?v=5xzQFB-I5XQ
 
 Corresponding proposal for the Futures Forum on Learning: Tools Competition is below
